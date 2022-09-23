@@ -1,5 +1,5 @@
-name: 'Hello World'
-description: 'Greet someone'
+name: 'st-personal-pypi-release-workflow'
+description: ' This is a personal relase flow for python pypi '
 inputs:
   python-version:
     description: 'Python Version'
